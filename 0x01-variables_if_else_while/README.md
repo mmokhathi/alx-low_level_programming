@@ -2,3 +2,4 @@
 # 1-last_digit.c will print the last didgit of any number
 # 2-print_alphabet.c will print the alphabet in lower case
 # 3-print_alphabets.c prints the alphabet in lowercase, and then in uppercase
+# 4-print_alphabt.c will print alphabet except q and e
