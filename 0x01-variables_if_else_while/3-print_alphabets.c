@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main - returns alphabet in lower case, then in upper case
- * followed by a new line
- * return: Always zero (Success)
+ * main - Entry point
+ * 
+ * return: Always 0 (Success)
  */
 int main(void)
 {
