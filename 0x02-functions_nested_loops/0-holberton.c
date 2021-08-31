@@ -4,7 +4,7 @@
  * main - Prints Holberton followed by a newline
  * Return: Always 0 (Success)
  */
-int _putchar(char c)
+int main(void)
 {
 	_putchar('H');
 	_putchar('o');
