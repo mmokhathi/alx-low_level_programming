@@ -7,3 +7,4 @@
 # 6-print_line.c draws a straight line on the terminal
 # 7-print_diagonal.c draws a diagonal line on the terminal
 # 8-print_square.c prints a square on the terminal
+# 9-fizz_buzz.c solves the FizzBuzz problem
