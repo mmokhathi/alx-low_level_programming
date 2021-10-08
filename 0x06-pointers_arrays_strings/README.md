@@ -9,3 +9,4 @@
 # 100-rot13.c encodes a string using rot13
 # 101-print_number.c prints an integer
 # 102-magic.c prints a[2] = 98 followed by newline
+# 103-infinite_add.c adds two numbers
